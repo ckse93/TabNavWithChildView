@@ -11,6 +11,8 @@
 		DF14EF8F27A446A40040F9D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF14EF8E27A446A40040F9D4 /* ContentView.swift */; };
 		DF14EF9127A446A60040F9D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF14EF9027A446A60040F9D4 /* Assets.xcassets */; };
 		DF14EF9427A446A60040F9D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF14EF9327A446A60040F9D4 /* Preview Assets.xcassets */; };
+		DF14EF9B27A46EE30040F9D4 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF14EF9A27A46EE30040F9D4 /* Router.swift */; };
+		DF14EF9D27A474BC0040F9D4 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF14EF9C27A474BC0040F9D4 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DF14EF8E27A446A40040F9D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DF14EF9027A446A60040F9D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF14EF9327A446A60040F9D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DF14EF9A27A46EE30040F9D4 /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		DF14EF9C27A474BC0040F9D4 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				DF14EF8E27A446A40040F9D4 /* ContentView.swift */,
 				DF14EF9027A446A60040F9D4 /* Assets.xcassets */,
 				DF14EF9227A446A60040F9D4 /* Preview Content */,
+				DF14EF9A27A46EE30040F9D4 /* Router.swift */,
+				DF14EF9C27A474BC0040F9D4 /* SwiftUIView.swift */,
 			);
 			path = tabViewWithChild;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF14EF8F27A446A40040F9D4 /* ContentView.swift in Sources */,
+				DF14EF9B27A46EE30040F9D4 /* Router.swift in Sources */,
+				DF14EF9D27A474BC0040F9D4 /* SwiftUIView.swift in Sources */,
 				DF14EF8D27A446A40040F9D4 /* tabViewWithChildApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
